@@ -1,0 +1,13 @@
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\bin\Debug\netcoreapp3.1\Nullable_Types.exe
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\bin\Debug\netcoreapp3.1\Nullable_Types.deps.json
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\bin\Debug\netcoreapp3.1\Nullable_Types.runtimeconfig.json
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\bin\Debug\netcoreapp3.1\Nullable_Types.runtimeconfig.dev.json
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\bin\Debug\netcoreapp3.1\Nullable_Types.dll
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\bin\Debug\netcoreapp3.1\Nullable_Types.pdb
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\obj\Debug\netcoreapp3.1\Nullable_Types.csprojAssemblyReference.cache
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\obj\Debug\netcoreapp3.1\Nullable_Types.AssemblyInfoInputs.cache
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\obj\Debug\netcoreapp3.1\Nullable_Types.AssemblyInfo.cs
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\obj\Debug\netcoreapp3.1\Nullable_Types.csproj.CoreCompileInputs.cache
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\obj\Debug\netcoreapp3.1\Nullable_Types.dll
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\obj\Debug\netcoreapp3.1\Nullable_Types.pdb
+C:\work\c#\Curso C#\Nullable_Types\Nullable_Types\obj\Debug\netcoreapp3.1\Nullable_Types.genruntimeconfig.cache
