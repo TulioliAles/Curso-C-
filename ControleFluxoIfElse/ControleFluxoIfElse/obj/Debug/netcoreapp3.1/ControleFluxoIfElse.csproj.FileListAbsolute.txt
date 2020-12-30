@@ -1,0 +1,13 @@
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\bin\Debug\netcoreapp3.1\ControleFluxoIfElse.exe
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\bin\Debug\netcoreapp3.1\ControleFluxoIfElse.deps.json
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\bin\Debug\netcoreapp3.1\ControleFluxoIfElse.runtimeconfig.json
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\bin\Debug\netcoreapp3.1\ControleFluxoIfElse.runtimeconfig.dev.json
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\bin\Debug\netcoreapp3.1\ControleFluxoIfElse.dll
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\bin\Debug\netcoreapp3.1\ControleFluxoIfElse.pdb
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\obj\Debug\netcoreapp3.1\ControleFluxoIfElse.csprojAssemblyReference.cache
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\obj\Debug\netcoreapp3.1\ControleFluxoIfElse.AssemblyInfoInputs.cache
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\obj\Debug\netcoreapp3.1\ControleFluxoIfElse.AssemblyInfo.cs
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\obj\Debug\netcoreapp3.1\ControleFluxoIfElse.csproj.CoreCompileInputs.cache
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\obj\Debug\netcoreapp3.1\ControleFluxoIfElse.dll
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\obj\Debug\netcoreapp3.1\ControleFluxoIfElse.pdb
+C:\work\c#\Curso C#\ControleFluxoIfElse\ControleFluxoIfElse\obj\Debug\netcoreapp3.1\ControleFluxoIfElse.genruntimeconfig.cache
