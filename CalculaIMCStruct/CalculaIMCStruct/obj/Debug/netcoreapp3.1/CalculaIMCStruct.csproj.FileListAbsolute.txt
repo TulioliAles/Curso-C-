@@ -1,0 +1,13 @@
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\bin\Debug\netcoreapp3.1\CalculaIMCStruct.exe
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\bin\Debug\netcoreapp3.1\CalculaIMCStruct.deps.json
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\bin\Debug\netcoreapp3.1\CalculaIMCStruct.runtimeconfig.json
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\bin\Debug\netcoreapp3.1\CalculaIMCStruct.runtimeconfig.dev.json
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\bin\Debug\netcoreapp3.1\CalculaIMCStruct.dll
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\bin\Debug\netcoreapp3.1\CalculaIMCStruct.pdb
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\obj\Debug\netcoreapp3.1\CalculaIMCStruct.csprojAssemblyReference.cache
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\obj\Debug\netcoreapp3.1\CalculaIMCStruct.AssemblyInfoInputs.cache
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\obj\Debug\netcoreapp3.1\CalculaIMCStruct.AssemblyInfo.cs
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\obj\Debug\netcoreapp3.1\CalculaIMCStruct.csproj.CoreCompileInputs.cache
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\obj\Debug\netcoreapp3.1\CalculaIMCStruct.dll
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\obj\Debug\netcoreapp3.1\CalculaIMCStruct.pdb
+C:\work\c#\Curso C#\CalculaIMCStruct\CalculaIMCStruct\obj\Debug\netcoreapp3.1\CalculaIMCStruct.genruntimeconfig.cache
