@@ -27,21 +27,21 @@ namespace CalculaIMCStruct
 
                 Console.WriteLine("O Peso informado é {0} Kg e a Altura informada é {1} m.", Tulioli.Peso, Tulioli.Altura);
 
-                Tulioli.IMC = calcularIMC(Tulioli.Peso, Tulioli.Altura);
+                Tulioli.IMC = CalcularIMC(Tulioli.Peso, Tulioli.Altura);
                 Console.WriteLine("Seu IMC é {0}.", Tulioli.IMC);
 
-                exibeResultado(Tulioli.IMC);
+                ExibeResultado(Tulioli.IMC);
 
                 Console.WriteLine("Deseja continuar? [s] [n] ?");
                 resposta = Console.ReadLine();
             }
 
-            static double calcularIMC(double peso, double altura)
+            static double CalcularIMC(double peso, double altura)
             {
                 return peso / (Math.Pow(altura, 2));
             }
 
-            static void exibeResultado(double imc)
+            static void ExibeResultado(double imc)
             {
                 if (imc < 18.5)
                 {
