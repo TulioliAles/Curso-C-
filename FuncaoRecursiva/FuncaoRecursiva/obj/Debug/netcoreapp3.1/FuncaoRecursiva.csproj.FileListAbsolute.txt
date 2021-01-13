@@ -1,0 +1,13 @@
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.exe
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.deps.json
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.runtimeconfig.json
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.runtimeconfig.dev.json
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.dll
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.pdb
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.csprojAssemblyReference.cache
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.AssemblyInfoInputs.cache
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.AssemblyInfo.cs
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.csproj.CoreCompileInputs.cache
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.dll
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.pdb
+C:\work\c#\Curso C#\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.genruntimeconfig.cache

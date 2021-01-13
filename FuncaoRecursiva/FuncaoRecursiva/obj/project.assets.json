@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\c#\\Curso C#\\CalculaIMCStruct\\CalculaIMCStruct\\CalculaIMCStruct.csproj",
-      "projectName": "CalculaIMCStruct",
-      "projectPath": "C:\\work\\c#\\Curso C#\\CalculaIMCStruct\\CalculaIMCStruct\\CalculaIMCStruct.csproj",
+      "projectUniqueName": "C:\\work\\c#\\Curso C#\\FuncaoRecursiva\\FuncaoRecursiva\\FuncaoRecursiva.csproj",
+      "projectName": "FuncaoRecursiva",
+      "projectPath": "C:\\work\\c#\\Curso C#\\FuncaoRecursiva\\FuncaoRecursiva\\FuncaoRecursiva.csproj",
       "packagesPath": "C:\\Users\\Tulioli's\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\c#\\Curso C#\\CalculaIMCStruct\\CalculaIMCStruct\\obj\\",
+      "outputPath": "C:\\work\\c#\\Curso C#\\FuncaoRecursiva\\FuncaoRecursiva\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tulioli's\\AppData\\Roaming\\NuGet\\NuGet.Config",
