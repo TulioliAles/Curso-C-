@@ -1,0 +1,7 @@
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\ColeçõesComGenerics\ColeçõesComGenerics\bin\Debug\ColeçõesComGenerics.exe.config
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\ColeçõesComGenerics\ColeçõesComGenerics\bin\Debug\ColeçõesComGenerics.exe
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\ColeçõesComGenerics\ColeçõesComGenerics\bin\Debug\ColeçõesComGenerics.pdb
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\ColeçõesComGenerics\ColeçõesComGenerics\obj\Debug\ColeçõesComGenerics.csprojAssemblyReference.cache
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\ColeçõesComGenerics\ColeçõesComGenerics\obj\Debug\ColeçõesComGenerics.csproj.CoreCompileInputs.cache
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\ColeçõesComGenerics\ColeçõesComGenerics\obj\Debug\ColeçõesComGenerics.exe
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\ColeçõesComGenerics\ColeçõesComGenerics\obj\Debug\ColeçõesComGenerics.pdb
