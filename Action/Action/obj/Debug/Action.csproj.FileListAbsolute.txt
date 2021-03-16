@@ -1,0 +1,7 @@
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Action\Action\bin\Debug\Action.exe.config
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Action\Action\bin\Debug\Action.exe
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Action\Action\bin\Debug\Action.pdb
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Action\Action\obj\Debug\Action.csprojAssemblyReference.cache
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Action\Action\obj\Debug\Action.csproj.CoreCompileInputs.cache
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Action\Action\obj\Debug\Action.exe
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Action\Action\obj\Debug\Action.pdb
