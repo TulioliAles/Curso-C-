@@ -1,0 +1,7 @@
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Predicate\Predicate\bin\Debug\Predicate.exe.config
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Predicate\Predicate\bin\Debug\Predicate.exe
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Predicate\Predicate\bin\Debug\Predicate.pdb
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Predicate\Predicate\obj\Debug\Predicate.csprojAssemblyReference.cache
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Predicate\Predicate\obj\Debug\Predicate.csproj.CoreCompileInputs.cache
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Predicate\Predicate\obj\Debug\Predicate.exe
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\Predicate\Predicate\obj\Debug\Predicate.pdb
