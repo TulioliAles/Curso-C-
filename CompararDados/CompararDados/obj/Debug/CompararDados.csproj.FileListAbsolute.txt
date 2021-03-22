@@ -1,0 +1,7 @@
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\CompararDados\CompararDados\bin\Debug\CompararDados.exe.config
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\CompararDados\CompararDados\bin\Debug\CompararDados.exe
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\CompararDados\CompararDados\bin\Debug\CompararDados.pdb
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\CompararDados\CompararDados\obj\Debug\CompararDados.csprojAssemblyReference.cache
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\CompararDados\CompararDados\obj\Debug\CompararDados.csproj.CoreCompileInputs.cache
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\CompararDados\CompararDados\obj\Debug\CompararDados.exe
+D:\ADM\Estudo_Dotnet_Framework\Curso-CSharp\CompararDados\CompararDados\obj\Debug\CompararDados.pdb
